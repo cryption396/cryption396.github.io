@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gabriel&#39;s Blog</title>
-        <link>https://gabrielpaz.xyz/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Gabriel&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielpaz.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
-        <link>https://gabrielpaz.xyz/post/hello-world/</link>
+        <link>http://localhost:1313/post/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://gabrielpaz.xyz/post/hello-world/</guid>
-        <description>&lt;img src="https://gabrielpaz.xyz/post/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+        <guid>http://localhost:1313/post/hello-world/</guid>
+        <description>&lt;img src="http://localhost:1313/post/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -26,18 +26,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://gabrielpaz.xyz/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://gabrielpaz.xyz/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://gabrielpaz.xyz/links/</link>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://gabrielpaz.xyz/links/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -69,10 +69,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://gabrielpaz.xyz/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://gabrielpaz.xyz/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         
