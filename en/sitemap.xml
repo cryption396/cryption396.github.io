@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/hello-world/</loc>
+    <loc>https://gabrielpaz.xyz/post/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/post/hello-world/"
+                href="https://gabrielpaz.xyz/pt-br/post/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/hello-world/"
+                href="https://gabrielpaz.xyz/post/hello-world/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gabrielpaz.xyz/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://gabrielpaz.xyz/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://gabrielpaz.xyz/"
                 />
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://gabrielpaz.xyz/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/archives/"
+                href="https://gabrielpaz.xyz/pt-br/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://gabrielpaz.xyz/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gabrielpaz.xyz/categories/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://gabrielpaz.xyz/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://gabrielpaz.xyz/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/example-category/</loc>
+    <loc>https://gabrielpaz.xyz/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/example-category/"
+                href="https://gabrielpaz.xyz/pt-br/categories/example-category/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/example-category/"
+                href="https://gabrielpaz.xyz/categories/example-category/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/example-tag/</loc>
+    <loc>https://gabrielpaz.xyz/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/page/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://gabrielpaz.xyz/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/post/"
+                href="https://gabrielpaz.xyz/pt-br/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://gabrielpaz.xyz/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gabrielpaz.xyz/post/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://gabrielpaz.xyz/pt-br/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://gabrielpaz.xyz/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://gabrielpaz.xyz/tags/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/links/"
+                href="https://gabrielpaz.xyz/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/links/"
+                href="https://gabrielpaz.xyz/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://gabrielpaz.xyz/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/search/"
+                href="https://gabrielpaz.xyz/pt-br/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://gabrielpaz.xyz/links/"
+                />
+  </url><url>
+    <loc>https://gabrielpaz.xyz/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://gabrielpaz.xyz/pt-br/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gabrielpaz.xyz/search/"
                 />
   </url>
 </urlset>

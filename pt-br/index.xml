@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Blog do Gabriel</title>
-        <link>http://localhost:1313/pt-br/</link>
+        <link>https://gabrielpaz.xyz/pt-br/</link>
         <description>Recent content on Blog do Gabriel</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielpaz.xyz/pt-br/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Olá Mundo</title>
-        <link>http://localhost:1313/pt-br/post/hello-world/</link>
+        <link>https://gabrielpaz.xyz/pt-br/post/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/pt-br/post/hello-world/</guid>
-        <description>&lt;img src="http://localhost:1313/post/hello-world/cover.jpg" alt="Featured image of post Olá Mundo" /&gt;&lt;p&gt;Bem-vindo ao tema Stack do Hugo. Esta é a sua primeira publicação. Edite ou exclua-a e comece a escrever!&lt;/p&gt;
+        <guid>https://gabrielpaz.xyz/pt-br/post/hello-world/</guid>
+        <description>&lt;img src="https://gabrielpaz.xyz/post/hello-world/cover.jpg" alt="Featured image of post Olá Mundo" /&gt;&lt;p&gt;Bem-vindo ao tema Stack do Hugo. Esta é a sua primeira publicação. Edite ou exclua-a e comece a escrever!&lt;/p&gt;
 &lt;p&gt;Para obter mais informações sobre este tema, consulte a documentação: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Quer um site como este? Confira &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -26,26 +26,26 @@
         </item>
         <item>
         <title>Acervo</title>
-        <link>http://localhost:1313/pt-br/archives/</link>
+        <link>https://gabrielpaz.xyz/pt-br/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/pt-br/archives/</guid>
+        <guid>https://gabrielpaz.xyz/pt-br/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Busca</title>
-        <link>http://localhost:1313/pt-br/search/</link>
+        <link>https://gabrielpaz.xyz/pt-br/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/pt-br/search/</guid>
+        <guid>https://gabrielpaz.xyz/pt-br/search/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/pt-br/links/</link>
+        <link>https://gabrielpaz.xyz/pt-br/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/pt-br/links/</guid>
+        <guid>https://gabrielpaz.xyz/pt-br/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
